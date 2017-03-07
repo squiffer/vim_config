@@ -9,6 +9,13 @@ syntax on
 filetype plugin on
 filetype indent on
 
+call plug#begin()
+Plug 'sentientmachine/Pretty-Vim-Python'
+Plug 'scrooloose/nerdtree'
+Plug 'scrooloose/nerdcommenter'
+"Plug 'powerline/powerline', {'rtp': 'powerline/bindings/vim'}
+call plug#end()
+
 " Set to auto read when a file is changed from the outside
 "set autoread
 
