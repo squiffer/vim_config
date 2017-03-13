@@ -1,0 +1,3 @@
+Personal Vim configuration:
+-Designed to work cross-platform on macOS and Linux
+-Uses vim-plug plugin manager where feasible
