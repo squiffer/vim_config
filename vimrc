@@ -13,6 +13,7 @@ call plug#begin()
 Plug 'sentientmachine/Pretty-Vim-Python'
 Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/nerdcommenter'
+Plug 'rust-lang/rust.vim'
 "Plug 'powerline/powerline', {'rtp': 'powerline/bindings/vim'}
 call plug#end()
 
